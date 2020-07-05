@@ -32,6 +32,10 @@ Two kinds of feature were extracted
 
 Thus, features are designed in such a way that they complement each other's drawbacks and help in right classification of the Traffic Light State.
 
+## Classification and Accuracy
+- Classifier Function compares addition of both the feature values for all three classes.
+- With the features defined it is able to achieve **100%** Accuracy
+
 ## Assumptions
 
 - Traffic lights are oriented vertically with little deviation in angles. 
